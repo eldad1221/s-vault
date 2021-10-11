@@ -1,0 +1,4 @@
+quickbe==0.0.6
+GitPython
+cryptography
+schedule
